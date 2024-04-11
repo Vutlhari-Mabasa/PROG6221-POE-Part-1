@@ -1,5 +1,7 @@
 # RecipeApp
 
+https://github.com/Vutlhari-Mabasa/PROG6221-POE-Part-1.git
+
 To run this RecipeApp application, follow these steps:
 
 1. **Download the source code**: If you don't have the source code already, you'll need to obtain it. You can copy the provided code and save it into a file with a `.cs` extension, or you can download the code from the source it was provided.
